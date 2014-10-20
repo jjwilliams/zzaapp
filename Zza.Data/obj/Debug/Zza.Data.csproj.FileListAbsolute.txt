@@ -1,0 +1,12 @@
+c:\projects\ZzaApp\Zza.Data\bin\Debug\Zza.Data.dll.config
+c:\projects\ZzaApp\Zza.Data\bin\Debug\Zza.Data.dll
+c:\projects\ZzaApp\Zza.Data\bin\Debug\Zza.Data.pdb
+c:\projects\ZzaApp\Zza.Data\bin\Debug\EntityFramework.dll
+c:\projects\ZzaApp\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\projects\ZzaApp\Zza.Data\bin\Debug\Zza.Entities.dll
+c:\projects\ZzaApp\Zza.Data\bin\Debug\Zza.Entities.pdb
+c:\projects\ZzaApp\Zza.Data\bin\Debug\EntityFramework.xml
+c:\projects\ZzaApp\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\projects\ZzaApp\Zza.Data\obj\Debug\Zza.Data.csprojResolveAssemblyReference.cache
+c:\projects\ZzaApp\Zza.Data\obj\Debug\Zza.Data.dll
+c:\projects\ZzaApp\Zza.Data\obj\Debug\Zza.Data.pdb

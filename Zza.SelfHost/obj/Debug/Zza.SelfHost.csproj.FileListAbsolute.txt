@@ -1,0 +1,14 @@
+c:\projects\ZzaApp\Zza.SelfHost\bin\Debug\Zza.SelfHost.exe
+c:\projects\ZzaApp\Zza.SelfHost\bin\Debug\Zza.Services.dll
+c:\projects\ZzaApp\Zza.SelfHost\bin\Debug\Zza.Entities.dll
+c:\projects\ZzaApp\Zza.SelfHost\bin\Debug\Zza.SelfHost.exe.config
+c:\projects\ZzaApp\Zza.SelfHost\bin\Debug\Zza.SelfHost.pdb
+c:\projects\ZzaApp\Zza.SelfHost\bin\Debug\Zza.Data.dll
+c:\projects\ZzaApp\Zza.SelfHost\bin\Debug\EntityFramework.dll
+c:\projects\ZzaApp\Zza.SelfHost\bin\Debug\Zza.Services.pdb
+c:\projects\ZzaApp\Zza.SelfHost\bin\Debug\Zza.Entities.pdb
+c:\projects\ZzaApp\Zza.SelfHost\bin\Debug\Zza.Data.pdb
+c:\projects\ZzaApp\Zza.SelfHost\bin\Debug\EntityFramework.xml
+c:\projects\ZzaApp\Zza.SelfHost\obj\Debug\Zza.SelfHost.csprojResolveAssemblyReference.cache
+c:\projects\ZzaApp\Zza.SelfHost\obj\Debug\Zza.SelfHost.exe
+c:\projects\ZzaApp\Zza.SelfHost\obj\Debug\Zza.SelfHost.pdb

@@ -1,0 +1,4 @@
+c:\projects\ZzaApp\Zza.Entities\bin\Debug\Zza.Entities.dll
+c:\projects\ZzaApp\Zza.Entities\bin\Debug\Zza.Entities.pdb
+c:\projects\ZzaApp\Zza.Entities\obj\Debug\Zza.Entities.dll
+c:\projects\ZzaApp\Zza.Entities\obj\Debug\Zza.Entities.pdb

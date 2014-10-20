@@ -1,0 +1,8 @@
+c:\projects\ZzaApp\Zza.ClientConsole\bin\Debug\Zza.ClientConsole.exe.config
+c:\projects\ZzaApp\Zza.ClientConsole\bin\Debug\Zza.ClientConsole.exe
+c:\projects\ZzaApp\Zza.ClientConsole\bin\Debug\Zza.ClientConsole.pdb
+c:\projects\ZzaApp\Zza.ClientConsole\bin\Debug\Zza.Entities.dll
+c:\projects\ZzaApp\Zza.ClientConsole\bin\Debug\Zza.Entities.pdb
+c:\projects\ZzaApp\Zza.ClientConsole\obj\Debug\Zza.ClientConsole.csprojResolveAssemblyReference.cache
+c:\projects\ZzaApp\Zza.ClientConsole\obj\Debug\Zza.ClientConsole.exe
+c:\projects\ZzaApp\Zza.ClientConsole\obj\Debug\Zza.ClientConsole.pdb
